@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="043_Seconds_to_Days_Hours_Minutes_Seconds_by_cpp.vcxproj" />
+</Solution>
