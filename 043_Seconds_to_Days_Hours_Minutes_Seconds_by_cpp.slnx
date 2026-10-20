@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="043_Seconds_to_Days_Hours_Minutes_Seconds_by_cpp.vcxproj" />
+  <Project Path="043_Seconds_to_Days_Hours_Minutes_Seconds_by_cpp.vcxproj" Id="2e9690e2-0072-4d7c-9e6f-d9e25ec6fbb4" />
 </Solution>
